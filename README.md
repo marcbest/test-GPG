@@ -1,4 +1,4 @@
-test# !test GPG!
+gtest# !test GPG!
 
 Test GPG
 jfefwe
